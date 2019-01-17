@@ -8,7 +8,7 @@ Date: October 1, 2017
 Last Updated: December 13, 2017 
 Author: Bunyod Tusmatov 
 
-###Input Variables:   
+### Input Variables:   
 Macros and input: %finance (symbol=, stock_market=, start_date=, end_date=) 
 Output variable: 
 Program file: "C:\Users\Admin\Documents\Fall 2017 Courses\Statistical Programming\Homeworks\h5_A.sas"
