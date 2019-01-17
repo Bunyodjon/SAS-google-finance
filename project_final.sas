@@ -1,9 +1,5 @@
 /*
-Discription of Program: This program downloads a historical stock data based on 
-stock ticker, stock market ticker, start data and end date. It prints out plots and 
-financial indicator in a report form. The program consists of one large macro that 
-computes everything, and it could be called as many times as possible  
-Date: October 1, 2017
+Date Created: October 1, 2017
 Last Updated: December 13, 2017 
 Author: Bunyod Tusmatov 
 
